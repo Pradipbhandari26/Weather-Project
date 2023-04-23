@@ -21,7 +21,7 @@ const Weather = () => {
         setGeo(response.data)
         console.log(response.data)
         }) 
-
+//commit test
         
      }
 
